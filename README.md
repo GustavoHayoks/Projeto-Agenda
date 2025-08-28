@@ -3,7 +3,7 @@ Ideia de projeto - sistema de agendamento e cancelamento de pacientes
 
 A ideia é construir algo simples, funcional e que atenda às necessidades de um profissional que trabalhe com atendimentos, datas e horarios marcados, como um fisioterapeuta, por exemplo
 
-. Abaixo, mostrarei um passo a passo da ideá para criação do projeto até agora:
+. Abaixo, mostrarei um passo a passo da idéia para criação do projeto até agora:
 
 🧠 Objetivo do sistema
 
